@@ -1,0 +1,5 @@
+#Comma seperated list of domainnames
+LETSENCRYPTDOMAINS=^
+LETSENCRYPTEMAIL=
+MAILNAME=
+ROOTMAIL=
